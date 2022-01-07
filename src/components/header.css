@@ -1,0 +1,23 @@
+.header {
+    text-align: center;
+    font-size: xx-large;
+    background-color: aqua;
+    border-color: rgb(127, 129, 255);
+    border-radius: 2;
+    padding: 10px;
+    color: azure;
+    border: 2px;
+    text-size-adjust: 20px;
+}
+
+.addtodo {
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+.table {
+    width: 100%;
+    display: flex;
+}
